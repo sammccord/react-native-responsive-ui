@@ -2,7 +2,7 @@
 import React from "react";
 import {Image} from "react-native";
 
-import {ResponsiveComponent} from "../../lib";
+import {ResponsiveComponent} from "react-native-responsive-ui";
 
 interface BGImageProps {
     source: number,

@@ -4,10 +4,10 @@ import {Dimensions} from "react-native";
 import {StackNavigator, DrawerNavigator} from "react-navigation";
 import {AppLoading} from "expo";
 
-import {Images} from "./example/components";
-import Home from "./example/home";
-import Drawer from "./example/drawer";
-import Login from "./example/login";
+import {Images} from "./components";
+import Home from "./home";
+import Drawer from "./drawer";
+import Login from "./login";
 
 export default class App extends Component {
 

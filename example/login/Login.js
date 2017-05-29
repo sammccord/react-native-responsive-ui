@@ -1,7 +1,7 @@
 // @flow
 import React from "react";
 import {View, StyleSheet} from "react-native";
-import {MediaQuery, ResponsiveStyleSheet, ResponsiveComponent} from "../../lib";
+import {MediaQuery, ResponsiveStyleSheet, ResponsiveComponent} from "react-native-responsive-ui";
 
 import {BackgroundImage, Images, Button} from "../components";
 import Mark from "./Mark";
